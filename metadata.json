@@ -1,0 +1,6 @@
+{
+  "name": "シロップ計算表 (Syrup Calc)",
+  "description": "体重と年齢に基づいた小児科向けシロップ剤の1日量・1回量計算ツール。力価換算や上限値適用、疾患別表示に対応。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
